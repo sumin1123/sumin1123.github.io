@@ -16,4 +16,9 @@ tags:
 
 Hello
 
-I'm Meng Fanyong.
+- Everyone，my name is Meng Fanyong.I am from Liaoning and also graduated from Liaoning.
+
+- Since 2009,I engage in work in Beijing for power distribution industry.and join into Schneider big family in 2014.until now,I have worked more than 3 years in localization team.I can sincerely feel personal growth and team’s care.You give me great help and warm,I am very prond of working with you.
+
+- I like palying table tennis. I have a son of 2 years and 10 months.
+
