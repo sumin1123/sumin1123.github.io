@@ -1,7 +1,7 @@
 ---
 layout: blog
 book: true
-background-image: https://github.com/sumin1123/E-process/blob/master/PIC/1000.jpg?raw=true
+background-image: https://github.com/sumin1123/E-process/blob/master/PIC/zhouqiaoge.jpg?raw=true
 category: 简介
 title: Zhou Qiaoge/周巧鸽
 tags:
