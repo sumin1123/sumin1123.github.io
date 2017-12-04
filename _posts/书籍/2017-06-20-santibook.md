@@ -3,8 +3,8 @@ layout: blog
 book: true
 background: purple
 background-image: https://github.com/sumin1123/E-process/blob/master/PIC/ZYQ.jpg?raw=true
-title:  "Introduction of Zhang Yanqian"
-date:   2017-06-20
+title:  Zhang Yanqian/张妍茜
+date:   2017-06-20
 category: 简介
 tags:
 - 简介
