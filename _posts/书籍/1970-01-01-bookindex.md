@@ -1,7 +1,7 @@
 ---
 layout: blog
 book: true
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/91630214.jpg
+background-image: https://github.com/sumin1123/E-process/blob/master/PIC/1000.jpg?raw=true
 category: 书籍
 title: Introduction of Su Min
 tags:
