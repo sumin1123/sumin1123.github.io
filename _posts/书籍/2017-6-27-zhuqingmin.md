@@ -1,7 +1,7 @@
 ---
 layout: blog
 book: true
-background-image: https://github.com/sumin1123/E-process/blob/master/PIC/zhuqingmin.jpg?raw=true
+background-image: https://github.com/sumin1123/E-process/blob/master/PIC/qingmin.jpg?raw=true
 title:  Zhu Qingmin/朱庆民
 date:   2017-06-27
 category: 简介
