@@ -16,15 +16,6 @@ tags:
  
 Hello
 
-I'm Zhang Yanqian.Job Title
-Employer|Start Date|
----|---|---
-CC & QA supervisor SBMLV|Sep. 2013
-QC Senior engineer SBMLV | Dec. 2006
-QC & after service leader Panasonic Manufacturing (BJ) Co., Ltd. | Jul. 2003
-Design Engineer Panasonic Manufacturing (BJ) Co., Ltd. | Jul. 2001
-MV & LV Localization Project Leader in SBMLV. | till now
-
-
+I'm Zhang Yanqian.
 I like travelling, drawing and body building.
 I have a daughter of 8 years old.
