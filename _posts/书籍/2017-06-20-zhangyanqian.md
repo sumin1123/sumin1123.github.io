@@ -18,3 +18,4 @@ Hello
 I'm Zhang Yanqian.
 I like travelling, drawing and body building.
 I have a daughter of 8 years old.
+![](https://github.com/sumin1123/E-process/blob/master/PIC/yanqiandrawing.jpg?raw=true)
