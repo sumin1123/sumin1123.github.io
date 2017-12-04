@@ -5,15 +5,14 @@ background: purple
 background-image: https://github.com/sumin1123/E-process/blob/master/PIC/ZYQ.jpg?raw=true
 title:  "Introduction of Zhang Yanqian"
 date:   2017-06-20
-category: 书籍
+category: 简介
 tags:
 - 简介
 - 绘画
 - 国产化
- 
+---
+
   
-#### Yanqian ZHANG
- 
 Hello
 
 I'm Zhang Yanqian.
