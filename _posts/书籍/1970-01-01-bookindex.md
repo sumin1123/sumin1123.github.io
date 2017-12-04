@@ -3,7 +3,7 @@ layout: blog
 book: true
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/91630214.jpg
 category: 书籍
-title: liberxue读过书|在读的书
+title: Introduction of Su Min
 tags:
 - 书籍
 - book
@@ -12,5 +12,7 @@ redirect_from:
   - /1970/01/bookindex/
 ---
 
-11111111111111111111111111111
+Hello
+
+I'm Su Min.
 
