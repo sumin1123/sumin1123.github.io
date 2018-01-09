@@ -17,10 +17,10 @@ links:
   - name:         读书
     url:          /book
     external:     false
-  - name:         技术
+  - name:         生活
     url:          /road
     external:     false
-  - name:         随笔
+  - name:         技术
     url:          /archives
     external:     false
   - name:         标签
