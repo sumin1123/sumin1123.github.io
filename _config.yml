@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Localization team offical website"
-description:      "To see more people and more project"
+title:            "Su Min's blog"
+description:      "My blog"
 url:              http://sumin.ink # 域名
 signoff:          "Su Min" # Your name
 facebook_appid:   #sumin1123
@@ -14,13 +14,13 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         简介
+  - name:         读书笔记
     url:          /book
     external:     false
-  - name:         项目
+  - name:         技术文档
     url:          /road
     external:     false
-  - name:         归档
+  - name:         故事随笔
     url:          /archives
     external:     false
   - name:         标签
