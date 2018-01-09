@@ -14,13 +14,13 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         读书笔记
+  - name:         读书
     url:          /book
     external:     false
-  - name:         技术文档
+  - name:         技术
     url:          /road
     external:     false
-  - name:         故事随笔
+  - name:         随笔
     url:          /archives
     external:     false
   - name:         标签
