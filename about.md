@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: 关于Su Min
-description: "关于Su Min博客角落自述"
+title: 关于苏敏
+description: "关于苏敏的博客自述"
 data: 2017-01-08 09:19:11
 tags: 
 - Su Min
@@ -14,43 +14,17 @@ redirect_from:
 
 # Hello World
  
-又换了个博客主题 这次终于看见不那么难受了
- 
-博客使用Jekyll搭建托管在GitHub目前使用主题后期[已开源](https://github.com/Liberxue/liberxue.github.io)
- 
-<iframe src="http://ghbtns.com/github-btn.html?user=liberxue&repo=liberxue.github.io&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
+我，苏敏，
+
+##  Su Min/苏敏
  
 
-博客图片使用七牛云加速
-
-##  LiberXue  曾用名013
- 
-### 曾用名013简述
- 
- 
-之前五年间一直使用013这个网名好多朋友问什么是？
-
-013不就是十三吗 装呗
- 
-其实很简单在86版西游记中十三集开始悟空取经上路
- 
-还有一个原因2009年9月13日我在北京只剩下6块钱活三个月时间...
- 
-### LiberXue简述
- 
-#### Liber注释
- 
-同我名字谐音 ``Liber`` 英文翻译过来：自由
- 
-#### Xue注释
- 
-`Xue` 就是拼音 ...我名字最后一个字(⊙ω⊙)
 
 ## 想做一名全栈开发
 
-这是一个梦... 当然是梦肯定要成为架构师
 
-### 使用语言
+
+## 使用语言
 
 ``c# ``|``lua``| ``c++``|
  
