@@ -4,7 +4,7 @@ istop: true
 title: Kou Lifang/蔻莉芳
 background-image: https://github.com/sumin1123/E-process/blob/master/PIC/koulifang.jpg?raw=true
 date:  2017-03-07
-category: 简介
+category: 技术
 tags:
 - CE
 - 国产化
