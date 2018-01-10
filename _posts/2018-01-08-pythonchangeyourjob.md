@@ -62,7 +62,7 @@ redirect_from:
 
 12月8号路演完毕，同事观众傻眼了，截取部门聊天记录、邮件记录；之后是红包扑面而来，最大的红包1200块；不在于多少钱，在于这是外部给我的正反馈。
 
-[### **优酷视频**](http://v.youku.com/v_show/id_XMzIwMjM3NjQxNg==.html?spm=a2h3j.8428770.3416059.1)
+[**优酷视频**](http://v.youku.com/v_show/id_XMzIwMjM3NjQxNg==.html?spm=a2h3j.8428770.3416059.1)
 
 ![](https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/20180110wechart1.PNG?raw=true)
 ![](https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/20180110wechart2.PNG?raw=true)
