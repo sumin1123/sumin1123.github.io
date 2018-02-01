@@ -1,7 +1,7 @@
 ---
 layout: blog
 archives: true
-background-image: https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/20180110GSC.png?raw=true
+background-image: https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/1654983458.jpg?raw=true
 category: 故事
 title: 施耐德电气领导力峰会 D1笔记
 tags:
@@ -15,6 +15,7 @@ redirect_from:
 # 施耐德电气领导力峰会 D1笔记
 
 1933老场坊，原是工部局宰牲场，2018同一个地点，我拾步而上，仍可感受到八十多年前的风貌，施耐德电气领导力峰会在此召开。
+
 
 # 见贤思齐，见不贤而自省
 
@@ -56,6 +57,8 @@ redirect_from:
     不要再说：有空，我来想想、以后，再说、下次吧...这些话指向的不是行动，而是搁置。看到不满，就动手去改，看到疑惑，我们就动手验证，看到可能性，就去实现，无论如何，当下就要行动。
 
 # BU对谈
+
+![](https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/1654983458.jpg?raw=true)
 
 战略、销售、质量与客户SVP作为嘉宾，回答主持人柯旻的提问，摘要如下：
 
