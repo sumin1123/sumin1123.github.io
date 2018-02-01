@@ -14,6 +14,8 @@ redirect_from:
 
 # 施耐德电气领导力峰会 D1笔记
 
+![](https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/u=4048770817,1153109273&fm=200&gp=0.jpg?raw=true)
+
 1933老场坊，原是工部局宰牲场，2018同一个地点，我拾步而上，仍可感受到八十多年前的风貌，施耐德电气领导力峰会在此召开。
 
 
