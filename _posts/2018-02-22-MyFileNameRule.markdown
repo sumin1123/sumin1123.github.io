@@ -108,10 +108,6 @@ Po - PO订单
 
 * 更新日期：收到报价或供应商报价日期或保存日期，6位，例如：180207
 
-![](https://github.com/sumin1123/Writer005/blob/master/ch0/Picture/Qu17.png?raw=true)
----
-![](https://github.com/sumin1123/Writer005/blob/master/ch0/Picture/Qu18.png?raw=true)
-
 
 ### 表格模板
 
