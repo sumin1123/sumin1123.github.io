@@ -48,14 +48,23 @@ redirect_from:
 ## 文件属性缩写
 
 Hb - Handbook 操作手册，通常为某一项任务的执行清单
+
 Memo - 会议记录
+
 Info - Infomation 资料(注意和索引类文档性质上的区别)
+
 Ref - Reference 参考（资料）
+
 Tem - Template 模板、表格
+
 Dr - Drawing 图纸
+
 Re - Report 报告
+
 Qu - Quotation报价
+
 Co - Contract合同
+
 Po - PO订单
 
 ## 文件名称
@@ -129,6 +138,7 @@ Po - PO订单
 ### 照片 音频 视频
 
 * 暂时以拍摄日期归档，2017年一个文件夹，2018年一个文件夹。
+* 如果音频、视频是某次会议的记录等，遵从会议记录的命名方式，以Memo开头
 
 
 # 中文书写规约
