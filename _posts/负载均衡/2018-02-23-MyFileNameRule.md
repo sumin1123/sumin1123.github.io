@@ -13,6 +13,8 @@ redirect_from:
 ---
 
 
+
+![](https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/2018dogs.JPG?raw=true)
 # 个人命名规约
 
 曾经我提到文件命名感到很头疼，大妈发来两篇文档，结合自己工作内容，做成命名规则。
