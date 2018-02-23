@@ -1,6 +1,6 @@
 ---
 layout: blog
-archives: true
+road: true
 background-image: https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/2018dogs.JPG?raw=true
 category: 规约
 title: 个人命名规约
@@ -66,6 +66,8 @@ Qu - Quotation报价
 Co - Contract合同
 
 Po - PO订单
+
+Not - Notes笔记
 
 ## 文件名称
 
@@ -144,3 +146,16 @@ Po - PO订单
 * 数字与单位之间增加空格，例外，度（°）和百分比（%）与数字之间不需要增加空格。
 
 * 不重复使用标点符号，错误：巴西队！！！
+
+
+# 参考资料
+
+* Ishanshan博客
+
+* 开智学堂wiki
+
+* 大妈怼圈
+
+# CHANGE LOG
+
+1. 添加文件属性：Not - Notes笔记
