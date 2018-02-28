@@ -12,9 +12,15 @@ redirect_from:
   - /2018/02/bookindex/
 ---
 
+# 参考资料
+
+* [Ishanshan博客](http://ishanshan.top/community/HbDocName.html)
+
+* [开智学堂资源、经验共享库](https://github.com/OpenMindClub/Share)
+
+* 大妈怼圈[大妈博客](http://zoomquiet.org)
 
 
-![](https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/2018dogs.JPG?raw=true)
 # 喵酱的命名规约
 
 17 年底,用 Word 来写需求文档，于是就出现了保存了 N 个 Word 文件的情况，而且我无法快速知道 N 版和 N+1 版区别在哪里。我感到哪里不对，于是问大妈，大妈的回复是：这的确低效，只有中国的公司会这么干。
@@ -176,13 +182,7 @@ Rec - Record 历史记录
 * 不重复使用标点符号，例如错误用法：你好！！！
 
 
-# 参考资料
 
-* [Ishanshan博客](http://ishanshan.top/community/HbDocName.html)
-
-* [开智学堂资源、经验共享库](https://github.com/OpenMindClub/Share)
-
-* 大妈怼圈[大妈博客](http://zoomquiet.org)
 
 # CHANGE LOG
 
