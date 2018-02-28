@@ -178,13 +178,14 @@ Rec - Record 历史记录
 
 # 参考资料
 
-* Ishanshan博客
+* [Ishanshan博客](http://ishanshan.top/community/HbDocName.html)
 
-* 开智学堂wiki
+* [开智学堂资源、经验共享库](https://github.com/OpenMindClub/Share)
 
-* 大妈怼圈
+* 大妈怼圈[大妈博客](http://zoomquiet.org)
 
 # CHANGE LOG
 
 1. 添加文件属性：Not - Notes笔记 180223
 2. 更新写这篇文章的起因 180226
+3. 参考资料添加链接
