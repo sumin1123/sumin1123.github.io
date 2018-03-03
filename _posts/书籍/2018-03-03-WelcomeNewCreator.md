@@ -9,8 +9,6 @@ tags:
 - 源头
 - 创造
 - 内在动机
-redirect_from:
-  - /2018/03/bookindex/
 ---
 
 ## 欢迎你，创造者
