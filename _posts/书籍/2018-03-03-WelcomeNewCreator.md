@@ -12,7 +12,7 @@ redirect_from:
   - /2018/03/bookindex/
 ---
 
-## CH-4 复盘笔记：欢迎你，创造者
+## 欢迎你，创造者
 
 ![](https://github.com/sumin1123/Writer005/blob/master/ch-4/PicCH-4notes180303.jpg?raw=true)
 
