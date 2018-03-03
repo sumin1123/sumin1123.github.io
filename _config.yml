@@ -20,10 +20,10 @@ links:
   - name:         生活
     url:          /road
     external:     false
-  - name:         技术
+  - name:         归档
     url:          /archives
     external:     false
-  - name:         归档
+  - name:         标签
     url:          /tags
     external:     false
   - name:         关于
