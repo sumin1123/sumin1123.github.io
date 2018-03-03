@@ -1,6 +1,6 @@
 ---
 layout: blog
-archives: true
+road: true
 background-image: https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/20180110/2078800214.jpg?raw=true
 category: 故事
 title: 施耐德电气领导力峰会 D1笔记
