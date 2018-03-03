@@ -23,7 +23,7 @@ links:
   - name:         技术
     url:          /archives
     external:     false
-  - name:         标签
+  - name:         归档
     url:          /tags
     external:     false
   - name:         关于
