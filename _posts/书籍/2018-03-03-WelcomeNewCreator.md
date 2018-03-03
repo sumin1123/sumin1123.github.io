@@ -2,7 +2,7 @@
 layout: blog
 book: true
 background: blue
-background-image: https://raw.githubusercontent.com/sumin1123/Writer005/master/ch-4/PicCH-4notes180303.jpg?token=AZikMO2AKKY1rjrZMsIPOkEe3a3_PkhFks5ao3_0wA%3D%3D
+background-image: https://github.com/sumin1123/Writer005/blob/master/ch-4/PicCH-4notes180303.jpg?raw=true
 category: 创造者
 title: CH-4 复盘笔记：欢迎你，创造者
 tags:
@@ -79,7 +79,7 @@ redirect_from:
 你的作品问世，他人的各种评价都不重要，不用去理会。自己的行为是否正确，不依赖他人的评价。和牛人看齐、用客观数据考量。
 
 
-### 输出
+### 创造，行动起来
 
 听了许多道理，也过不好这一生？唯一的破解方法是：行动。
 
