@@ -1,7 +1,6 @@
 ---
 layout: blog
 book: true
-background: blue
 background-image: https://github.com/sumin1123/Writer005/blob/master/ch-4/PicCH-4notes180303.jpg?raw=true
 category: 创造者
 title: CH-4 复盘笔记：欢迎你，创造者
