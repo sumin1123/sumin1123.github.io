@@ -12,8 +12,6 @@ tags:
 
 ## 欢迎你，创造者
 
-![](https://github.com/sumin1123/Writer005/blob/master/ch-4/PicCH-4notes180303.jpg?raw=true)
-
 
 18年1月最后一天，临危受命去出差，在10个小时的往返高铁上，复习“探索开智新世界”卡包，居然没有看完，这可是最基础的卡包啊。
 
