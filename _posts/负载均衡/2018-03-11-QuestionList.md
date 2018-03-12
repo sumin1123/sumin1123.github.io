@@ -12,8 +12,8 @@ tags:
 
 ## 参考资料：
 
-* [玉伯 issue 如何向开源社区提问题](https://github.com/seajs/seajs/issues/545)
-* [超级黑客 Eric Steven Raymond 提问的智慧 节选](http://note.openmindclub.com/science/smart-questions.html)
+* [开智学堂 APP](http://openmindclub.com/) 推荐 [玉伯 issue 如何向开源社区提问题](https://github.com/seajs/seajs/issues/545)
+* [开智学堂 认知写作推荐](http://openmindclub.com/) [超级黑客 Eric Steven Raymond 提问的智慧 节选](http://note.openmindclub.com/science/smart-questions.html)
 
 ## 版权声明：
 
