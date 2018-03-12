@@ -116,13 +116,10 @@ QQ 、阿里旺旺、微信等群组、微博、Facebook 等社交网络。
 正确的语法、清晰的格式，可以让读者赏心悦目，也就更有心情帮你一起思考解决问题。
 
 如果你要用英文作为第二语言来提问，你可以使用以下的语句来进行说明，降低回答者对你语言使用的不适感：
-
     * English is not my native language; please excuse typing errors.
     * If you speak $LANGUAGE, please email/PM me; I may need assistance translating my question.
     * I am familiar with the technical terms, but some slang expressions and idioms are difficult for me.
     * I’ve posted my question in $LANGUAGE and English. I’ll be glad to translate responses, if you only use one or the other.
-
-
     * 使用纯文本而不是HTML格式；
     * 发送邮件时如有附件，记得添加附件，同时记得检查附件内容是否能正常打开；
     * 不要发送整段的文字，尝试将文字按主题分段；
