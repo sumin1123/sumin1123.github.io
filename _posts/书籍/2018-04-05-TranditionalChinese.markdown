@@ -1,7 +1,7 @@
 ---
 layout: blog
 book: true
-background-image: https://github.com/sumin1123/Writer005/blob/master/ch-4/PicCH-4notes180303.jpg?raw=true
+background-image: https://github.com/sumin1123/sumin1123.github.io/blob/master/style/images/PicTranditionnalChinese.jpg?raw=true
 category: 读书笔记
 title: 站在 1910 年 -《中文的常态与变态》读书笔记
 tags:
